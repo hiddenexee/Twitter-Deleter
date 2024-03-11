@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🗙 Twitter Delete All Tweet, Like, Following</h1>
+  <h1>🗙 Twitter Tweet, Like, Following Delete All</h1>
 </div>
 
 With this code, you can quickly delete all tweets, likes, and follows.
