@@ -7,6 +7,7 @@ With this code, you can quickly delete all tweets, likes, and follows.
 # How do you run it?
  - Log in to your Twitter account
  - Go to profile page
+ - Go to the end of the page
  - Switch to console screen with F12
  - Paste the code and enjoy
 
