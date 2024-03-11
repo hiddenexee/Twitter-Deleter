@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>🗙 Twitter Delete All Tweet</h1>
+  <h1>🗙 Twitter Delete All Tweet, Like, Following</h1>
 </div>
 
-You can quickly delete all tweets with this code
+With this code, you can quickly delete all tweets, likes, and follows.
 
 # How do you run it?
  - Log in to your Twitter account
